@@ -2,6 +2,10 @@
 <h3 align="center">A Senior Computer Science Student at Bilkent University</h3>
 
 - 🔭 I’m currently working on [MusicBox](https://github.com/YaseminAkin/yod-ai-musicbox)
+ 
+- 🔭 I have made a tool to [convert musicXML file data to music notation using VexFlow and JavaScript](https://github.com/ilhamiulugturkkan/musicXML-to-Music-Notation-VexFlow-)
+
+- 🔭 I have made a app to [determine whether it is OK to drive after drinking or not using C++ and QML](https://github.com/ilhamiulugturkkan/Are-You-Drunk)
 
 - 🌱 I’m currently learning **Courses Relevant to Data Science**
 
