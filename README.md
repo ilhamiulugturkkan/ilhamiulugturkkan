@@ -5,9 +5,9 @@
  
 - 🔭 I have made a tool to [convert musicXML file data to music notation using VexFlow and JavaScript](https://github.com/ilhamiulugturkkan/musicXML-to-Music-Notation-VexFlow-)
 
-- 🔭 I have made a app to [determine whether it is OK to drive after drinking or not using C++ and QML](https://github.com/ilhamiulugturkkan/Are-You-Drunk)
+- 🔭 I have made an app to [determine whether it is OK to drive after drinking or not using C++ and QML](https://github.com/ilhamiulugturkkan/Are-You-Drunk)
 
-- 🌱 I’m currently learning **Courses Relevant to Data Science**
+- 🌱 I’m currently a **Senior Computer Science Student at Bilkent University**
 
 - 📫 How to reach me **ilhamiuturkkan@gmail.com**
 
