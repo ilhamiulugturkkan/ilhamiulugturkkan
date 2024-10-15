@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlhami Uluğtürkkan</h1>
 <h3 align="center">A Senior Computer Science Student at Bilkent University</h3>
 
-- 🌱 I’m currently a **Senior Computer Science Student at Bilkent University**
+- 🌱 I’m currently doing research on **Natural Language to SQL Generation.**
 
 - 🔭 I have made a tool to [convert musicXML file data to music notation using VexFlow and JavaScript](https://github.com/ilhamiulugturkkan/musicXML-to-Music-Notation-VexFlow-)
 
