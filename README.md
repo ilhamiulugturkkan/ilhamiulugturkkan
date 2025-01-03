@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm İlhami Uluğtürkkan</h1>
 <h3 align="center">A Senior Computer Science Student at Bilkent University</h3>
 
-- 🌱 I’m currently doing research on **Natural Language to SQL Generation.**
+- 🌱 I’m currently doing research on **Natural Language to SQL Generation using LLMs.**
 
-- 🔭 I have made a tool to [convert musicXML file data to music notation using VexFlow and JavaScript](https://github.com/ilhamiulugturkkan/musicXML-to-Music-Notation-VexFlow-)
+- 🔭 I have developed a program to identify fake news based on their titles and contents using RNN and embedding models.
+
+- 🔭 I am currently develoing an algorithm that matches stray animals and potential adopters to prevent animal abandonment after adoption.
 
 - 🔭 I have made an app to [determine whether it is OK to drive after drinking or not using C++ and QML](https://github.com/ilhamiulugturkkan/Are-You-Drunk)
 
