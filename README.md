@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently doing research on **Natural Language to SQL Generation using LLMs.**
 
-- 🔭 I have developed a program to identify fake news based on their titles and contents using RNN and embedding models.
+- 🔭 I have developed a program to identify fake news based on their titles and contents using RNN and word embeddings.
 
 - 🔭 I am currently develoing an algorithm that matches stray animals and potential adopters to prevent animal abandonment after adoption.
 
